@@ -8,16 +8,16 @@ This **Power BI project** provides an in-depth analysis of **Cricket World Cup**
 
 The dataset is sourced from publicly available repositories, including:
 
-- ICC official records  
-- Kaggle datasets  
-- Other cricket statistics databases
+- **ICC official records**  
+- **Kaggle datasets**  
+- **Other cricket statistics databases**
 
 ---
 
 ## Features
 
-- Interactive dashboards showcasing **team and player performance**  
-- Visualizations of **historical trends**, such as winning teams, runs scored, wickets taken, and match statistics  
+- **Interactive dashboards** showcasing team and player performance  
+- **Visualizations of historical trends**, such as winning teams, runs scored, wickets taken, and match statistics  
 - **Key Performance Indicators (KPIs)** like top run-scorers, highest wicket-takers, and tournament progression  
 - **Filters** to analyze specific teams, players, or years
 
