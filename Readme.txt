@@ -42,4 +42,3 @@ The dataset is sourced from publicly available repositories, including:
 ## Author
 
 **Abhijit Wabale**  
-GitHub Profile: [https://github.com/abhijit0196/World-cup-Data-Analysis](https://github.com/abhijit0196/World-cup-Data-Analysis)
